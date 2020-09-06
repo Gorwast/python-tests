@@ -5,12 +5,13 @@ def say_hi():
 
 def if_statements(bool):
     if not bool:
-        print("Hola mundo")
+        print("Hello World")
     else:
-        print("Hola amigo")
-
+        print("Hi friend")
 
 # 2D Lists
+
+
 def number_grid():
     number_grid_list = [
         [1, 2, 3],

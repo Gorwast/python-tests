@@ -31,5 +31,5 @@ numberMonthConversions = {
 print(monthConversions["Nov"])
 print(monthConversions.get("Luv", "Not a valid key"))
 
-while True:
-    print("Hola")
+
+print("Hello")
