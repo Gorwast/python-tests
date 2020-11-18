@@ -1,6 +1,4 @@
-
-from Lib import random
-
+import random
 
 def create_random_int_list():
     int_list = []
@@ -24,10 +22,10 @@ def square_int_list(int_list):
     """Function that takes a list of integers and squares them
 
     Args:
-        int_list ([integer]): List that includes
+        int_list ([integer]): List that its numbers are going to be squared
 
     Returns:
-        [type]: [description]
+        [list]: List with all its numbers squared
     """
     for index in range(len(int_list)):
         int_list[index] *= int_list[index]

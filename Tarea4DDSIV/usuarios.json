@@ -1,0 +1,92 @@
+{
+    "campos": [
+        "ID",
+        "Nombre",
+        "Telefono",
+        "FechaNacimiento",
+        "Email",
+        "Contrase\u00f1a"
+    ],
+    "usuarios": [
+        [
+            0,
+            "Deborah B. Holcomb",
+            "1-303-998-4821",
+            "25/07/65",
+            "et.rutrum@eget.ca",
+            "MRK40TWP0UD"
+        ],
+        [
+            1,
+            "Tarik Z. Vaughan",
+            "1-808-956-5370",
+            "09/12/03",
+            "suscipit@musAenean.ca",
+            "TUL77PIR9AI"
+        ],
+        [
+            2,
+            "Rebekah B. Holland",
+            "1-592-833-1555",
+            "09/08/11",
+            "malesuada.id.erat@imperdietnecleo.net",
+            "TKH82KKN5WB"
+        ],
+        [
+            3,
+            "Amal H. Sweet",
+            "1-526-632-2461",
+            "03/12/95",
+            "massa@arcuCurabitur.edu",
+            "TDT42OKQ7FP"
+        ],
+        [
+            4,
+            "Damon X. Thornton",
+            "1-282-979-2163",
+            "09/06/82",
+            "et.netus@a.ca",
+            "XAT14HQS6IV"
+        ],
+        [
+            5,
+            "Winifred G. Yang",
+            "1-468-998-0337",
+            "16/06/77",
+            "imperdiet@facilisisvitaeorci.edu",
+            "SQA23LZV2RB"
+        ],
+        [
+            6,
+            "Ebony E. Wall",
+            "1-106-500-4226",
+            "22/03/05",
+            "et.ultrices.posuere@Maurisvel.net",
+            "VWY82LYP6YB"
+        ],
+        [
+            7,
+            "India E. Donovan",
+            "1-947-348-3890",
+            "02/06/10",
+            "quis@dolorsit.com",
+            "NHA62EZX2TI"
+        ],
+        [
+            8,
+            "Baker C. Bell",
+            "1-718-505-5274",
+            "19/07/04",
+            "sit.amet.lorem@primisinfaucibus.co.uk",
+            "SBO00XOA2WB"
+        ],
+        [
+            9,
+            "Ramona",
+            "1-759-555-444",
+            "20/04/01",
+            "rmonacharles@temporil.edu",
+            "AASDFASDF"
+        ]
+    ]
+}
